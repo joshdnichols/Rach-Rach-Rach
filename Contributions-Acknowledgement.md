@@ -11,7 +11,7 @@ the print edition.
 |--------------------|------------------------------------------|
 | Patron             | Donate any amount of money               |
 | General Editor(s)  | Proof, edit, contribute sources for edition   |
-| Measure Master     | Contribute \>300 mm. of RIINDS[^1]       |
+| Measure Master     | Contribute \>300 mm. of RIINDS*       |
 | Measure Cruncher   | Contribute 200-300 mm. of RIINDS         |
 | Measure Muncher    | Contribute 100-199 mm. of RIINDS         |
 | Measure Nibbler    | Contribute 50-99 mm. of RIINDS           |
@@ -24,7 +24,7 @@ the print edition.
 | +                  | “add 50 measures” to any of the          |
 |                    | applicable categories                    |
 
-[^1]: Raw Information Including Notes, Dynamics, and Slurs
+* Raw Information Including Notes, Dynamics, and Slurs
 
 When it comes to significant layout features, I will decide what to give then :)
 
